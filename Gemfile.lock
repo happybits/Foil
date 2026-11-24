@@ -172,7 +172,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.5.0)
-    uri (0.13.0)
+    uri (0.13.3)
     xcinvoke (0.3.0)
       liferaft (~> 0.0.6)
     xcodeproj (1.24.0)
